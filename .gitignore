@@ -1,6 +1,7 @@
 .idea
 node_modules
-tools/data
+# tools/data
+*.csv
 
 ### Linux template
 *~
